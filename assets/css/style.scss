@@ -2,7 +2,12 @@
 ---
 @import "{{ site.theme }}";
 
+// サイト全体のフォントをシンプルにする設定
+body, h1, h2, h3, h4, p, li {
+  font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif !important;
+}
+
+// ヘッダー（青い部分）の文字をさらに強調する
 header h1 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: bold;
 }
