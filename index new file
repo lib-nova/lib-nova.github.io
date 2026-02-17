@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>私の小説アーカイブ</title>
+</head>
+<body>
+    <h1>ようこそ、私の小説アーカイブへ</h1>
+    <p>ここに今まで書いた作品をまとめていく予定です。</p>
+    
+    <hr>
+    
+    <h2>作品一覧</h2>
+    <ul>
+        <li>準備中...</li>
+    </ul>
+</body>
+</html>
