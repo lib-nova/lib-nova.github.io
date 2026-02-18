@@ -9,3 +9,5 @@
 ## 設定資料集
 * [世界観・用語集](./world-setting)
 * [登場人物紹介](./character-profile)
+
+* [第1話](./story/episode1)
