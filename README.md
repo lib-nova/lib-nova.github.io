@@ -4,7 +4,7 @@
 
 ## 完結作品
 * [本編](./story/index)
-* [サブストーリー](#)
+* [サブストーリー](./side-story/index)
 
 ## 設定資料集
 * [世界観・用語集](./world-setting)
